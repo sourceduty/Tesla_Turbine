@@ -81,6 +81,8 @@ In summary, while the Tesla turbine itself may not be prevalent in modern techno
 [Energy Experiment](https://chat.openai.com/g/g-UIyGyVbxD-energy-experiment)
 <br>
 [Tesla Coil](https://github.com/sourceduty/Tesla_Coil)
+<br>
+[History Simulator](https://github.com/sourceduty/History_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
